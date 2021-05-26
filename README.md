@@ -21,7 +21,9 @@
   <img src="https://img.shields.io/badge/-Discord-223192?style=flat-square&labelColor=223192&logo=discord&logoColor=white&link=https://discord.gg/29Qz2DGZZ7"/></a>
 </p>  
 
+## 🏆 GitHub Trophies
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=rafaelconcept&rank=A,AA,AAA,S&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **rafaelconcept/rafaelconcept** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
