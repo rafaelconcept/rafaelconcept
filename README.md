@@ -1,4 +1,8 @@
 ### Hi there 👋
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=rafaelconcept.rafaelconcept)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) 
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Computador iuriCode">
 <p align="left"> 
  Hello, my name is Rafael <strong> Back-end developer</strong>.<br>
