@@ -23,7 +23,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rafaelconcept&rank=A,AA,AAA,S&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rafaelconcept&rank=A,AA,AAA,S&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **rafaelconcept/rafaelconcept** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
