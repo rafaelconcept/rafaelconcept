@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
 <p align="left"> 
  Hello, my name is Rafael <strong> Back-end developer</strong>.<br>
  Passionate about programming and challenges
