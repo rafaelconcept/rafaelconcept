@@ -5,11 +5,11 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Computador iuriCode">
 <p align="left"> 
- Hello, my name is Rafael <strong> Back-end developer</strong>.<br>
+ Hello, my name is Rafael -<strong> Back-end developer</strong>.<br>
  Passionate about programming and challenges
 </p>
 💌 Contact me: ⤵️
-
+<br>
 
 <p align="left">
   <a href="rafaelconcept@hotmail.com" alt="Hotmail">
