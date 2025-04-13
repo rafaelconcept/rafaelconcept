@@ -1,15 +1,22 @@
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi there 
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello, World! 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rafaelconcept.rafaelconcept)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Computador iuriCode">
 <p align="left"> 
- Hello, my name is Rafael -<strong> Back-end developer</strong>.<br>
- Passionate about programming and challenges
+ I'm <strong>Rafael Brito</strong> - a <strong>Backend Software Engineer</strong>.<br>
+ Passionate about solving complex problems with code and building reliable, scalable backend systems.
 </p>
-💌 Contact me: ⤵️
-<br>
+
+## ⚡ About Me
+
+> Building innovative solutions for challenging technical problems
+
+- 🚀 **Backend Development** - Microservices, APIs, and scalable systems
+- 💻 **Cloud Engineering** - AWS infrastructure, serverless applications, and distributed systems
+- 🧪 **Quality & Automation** - Testing strategies, CI/CD pipelines, and development workflows
+- 🔍 **Problem Solving** - Complex system design and optimization
 
 <p align="left">
   <a href="mailto:rafaelconcept@hotmail.com?subject=Hi%20there" alt="Hotmail">
@@ -25,44 +32,96 @@
   <img src="https://img.shields.io/badge/-Discord-223192?style=flat-square&labelColor=223192&logo=discord&logoColor=white&link=https://discord.gg/29Qz2DGZZ7"/></a>
 </p>  
 
+## 🎓 Certifications
+![](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-informational?style=flat&logo=amazon-aws&logoColor=white&color=FF9900)
+![](https://img.shields.io/badge/Certificate-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
+![](https://img.shields.io/badge/Certificate-PHP_MySQL-informational?style=flat&logo=php&logoColor=white&color=777BB4)
+![](https://img.shields.io/badge/Certificate-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
+![](https://img.shields.io/badge/Certificate-SQL_Profissional-informational?style=flat&logo=postgresql&logoColor=white&color=336791)
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=6aa6f8)
+<!-- Primary Technologies -->
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Node.Js-informational?style=flat&logo=node-dot-js&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=6aa6f8)
 
+<!-- Cloud & DevOps -->
+![](https://img.shields.io/badge/DevOps-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/DevOps-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/DevOps-CI/CD-informational?style=flat&logo=github-actions&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Monitoring-Datadog-informational?style=flat&logo=datadog&logoColor=white&color=6aa6f8)
+
+<!-- Databases -->
+![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/DB-SQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
+
+<!-- Tools & Platforms -->
+![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/API-REST-informational?style=flat&logo=fastapi&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+
+## 📊 Programming Languages
+
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-38.02%25-f1e05a?style=for-the-badge&logo=javascript&logoColor=white&labelColor=20232a" />
+  <img src="https://img.shields.io/badge/PHP-22.58%25-4F5D95?style=for-the-badge&logo=php&logoColor=white&labelColor=20232a" />
+  <img src="https://img.shields.io/badge/Java-17.31%25-b07219?style=for-the-badge&logo=java&logoColor=white&labelColor=20232a" />
+  <img src="https://img.shields.io/badge/Python-7.73%25-F37626?style=for-the-badge&logo=python&logoColor=white&labelColor=20232a" />
+  <img src="https://img.shields.io/badge/HTML-7.30%25-e34c26?style=for-the-badge&logo=html5&logoColor=white&labelColor=20232a" />
+  <img src="https://img.shields.io/badge/TypeScript-7.06%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=20232a" />
+</div>
+
+
+## 🚀 Skills Spotlight
+
+### Backend Development
+- **Microservices Architecture** - Design and implementation of scalable microservices
+- **API Development** - Creating RESTful APIs with Node.js and Express
+- **Database Management** - MongoDB, MySQL, data modeling and optimization
+- **Cloud Infrastructure** - AWS (Lambda, EC2, S3, SQS, ElastiCache, CloudFront)
+
+### DevOps & Monitoring
+- **Container Orchestration** - Kubernetes (K8s), Docker
+- **CI/CD Pipelines** - Automated testing, deployment, and monitoring
+- **Performance Optimization** - System analysis and bottleneck identification
+- **Monitoring Solutions** - Datadog, observability best practices
 
 ## &#x1f4c8; GitHub Stats
 <div>
 <a href="https://github.com/rafaelconcept/rafaelconcept">
-  <img height="200px" align="center" src="https://github-readme-stats-ecru-sigma-62.vercel.app/api?username=rafaelconcept&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Rafael Brito GitHub Stats" />
+  <img height="180em" align="center" src="https://github-readme-stats-ecru-sigma-62.vercel.app/api?username=rafaelconcept&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&border_color=6aa6f8&hide_border=false&include_all_commits=true" alt="Rafael Brito GitHub Stats" />
 </a>
 
 <a href="https://github.com/rafaelconcept/rafaelconcept">
-  <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelconcept&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Rafael Brito GitHub Stats" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelconcept&layout=compact&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&border_color=6aa6f8&langs_count=6&hide_border=false" alt="Rafael Brito GitHub Languages" />
 </a>
 </div>
 
+<br/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rafaelconcept&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rafaelconcept&rank=A,AA,AAA,S&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rafaelconcept&theme=nord&column=7&rank=SSS,SS,S,AAA,AA,A&no-frame=false&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rafaelconcept/rafaelconcept/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
 <!--
 **rafaelconcept/rafaelconcept** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
