@@ -93,7 +93,7 @@
 ## &#x1f4c8; GitHub Stats
 <div>
 <a href="https://github.com/rafaelconcept/rafaelconcept">
-  <img height="180em" align="center" src="https://github-readme-stats-ecru-sigma-62.vercel.app/api?sername=rafaelconcept&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&border_color=6aa6f8&hide_border=false&include_all_commits=true" alt="Rafael Brito GitHub Stats" />
+  <img height="180em" align="center" src="https://github-readme-stats-ecru-sigma-62.vercel.app/api?username=rafaelconcept&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Rafael Brito GitHub Stats" />
 </a>
 
 <a href="https://github.com/rafaelconcept/rafaelconcept">
